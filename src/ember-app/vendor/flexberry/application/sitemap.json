@@ -1,0 +1,50 @@
+﻿{
+  "applicationCaption": "Hfghfghfhhghrh",
+  "applicationTitle": "Hfghfghfhhghrh",
+  "items": [
+    {
+      "link": null,
+      "menuName": "hfghfghfhhghrh",
+      "caption": "Hfghfghfhhghrh",
+      "title": "Hfghfghfhhghrh",
+      "children": [
+        {
+          "link": "i-i-s-hfghfghfhhghrh-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-hfghfghfhhghrh-кабинет-l",
+          "menuName": null,
+          "caption": "Кабинет",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-hfghfghfhhghrh-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-hfghfghfhhghrh-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-hfghfghfhhghrh-запись-l",
+          "menuName": null,
+          "caption": "Запись",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

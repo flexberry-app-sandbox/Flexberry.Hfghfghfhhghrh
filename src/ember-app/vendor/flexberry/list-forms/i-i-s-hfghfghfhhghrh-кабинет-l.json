@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-hfghfghfhhghrh-кабинет-e",
+  "editForm": "i-i-s-hfghfghfhhghrh-кабинет-e",
+  "external": false,
+  "caption": "Кабинет",
+  "name": "IISHfghfghfhhghrhКабинетL",
+  "className": "КабинетL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-hfghfghfhhghrh-кабинет",
+      "modelProjection": "КабинетL"
+    }
+  ]
+}

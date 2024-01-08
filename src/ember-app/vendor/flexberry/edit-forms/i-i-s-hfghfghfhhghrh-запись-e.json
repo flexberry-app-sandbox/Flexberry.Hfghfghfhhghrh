@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудник",
+      "projection": "СотрудникL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Клиент",
+      "projection": "КлиентL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Кабинет",
+      "projection": "КабинетL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Запись",
+  "name": "IISHfghfghfhhghrhЗаписьE",
+  "className": "ЗаписьE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-hfghfghfhhghrh-запись",
+      "modelProjection": "ЗаписьE"
+    }
+  ]
+}
